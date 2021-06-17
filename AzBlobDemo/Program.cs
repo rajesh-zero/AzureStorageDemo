@@ -9,7 +9,7 @@ namespace AzBlobDemo
 {
     class Program
     {
-        static string ConnectionString = "ConnectionString";
+        static string ConnectionString = "";
         public static async Task Main()
         {
 
